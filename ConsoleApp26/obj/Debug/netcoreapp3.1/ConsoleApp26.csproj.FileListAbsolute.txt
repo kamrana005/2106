@@ -1,0 +1,14 @@
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.exe
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.deps.json
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.runtimeconfig.json
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.runtimeconfig.dev.json
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.dll
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.pdb
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.csproj.AssemblyReference.cache
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.AssemblyInfoInputs.cache
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.AssemblyInfo.cs
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.dll
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.pdb
+C:\Users\afand\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.genruntimeconfig.cache
